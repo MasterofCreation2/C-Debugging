@@ -26,7 +26,7 @@ int main()
 	//Welcomes them and tells them what to do.
 	cout << "Welcome to the CIA code Hunter Program!" << endl;
 	cout << "Please type in text to analyze: " << endl;
-	// What this is doing is grabbing the string above and initializing all the int with in it.
+	// What this is doing is grabbing the string above and initializing all the int with in it. 
 	getline(cin, textToAnalyze);
 
 	// This loop is checking each of the vowels
